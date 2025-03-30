@@ -1,0 +1,13 @@
+{
+  "plugins": {
+    "plugin-name": true
+  },
+  "theme": "default",
+  "file-explorer": {
+    "showFileExtensions": true
+  },
+  "editor": {
+    "fontSize": 14,
+    "lineHeight": 1.5
+  }
+}
